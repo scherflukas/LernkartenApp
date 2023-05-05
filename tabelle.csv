@@ -1,0 +1,10 @@
+ID,Kategorie,Titel,Frage,Antwort(en),Richtige Antwort(en)
+1,Japanisch,着物,着物,Kimono
+2,Japanisch,話します,話します,Hanashimasu Reden/ sprechen polite
+3,Japanisch,話す,話す,Hanasu Reden/ sprechen plain
+4,Japanisch,殺す,殺す,Korosu jemanden ermorden plain
+5,Japanisch,どう思いますか,どう思いますか,DouOmimasuka What do you think?
+6,Japanisch,刀,刀,かたな 	Katana
+7,Japanisch,魔術,魔術,まじゅつ Majutsu Magic
+8,Java,Methoden in Schnittstellen,Welche Arten von Methoden sind in Schnittstellen erlaubt? ,"[public abstract, protected static, package, public default, private]","[0, 3, 4]"
+9,Java,Konstruktoren,Welchem Zweck dient ein Konstruktor?,"[Ein Konstruktor ist eine spezielle Methode zur Initialisierung von Objekten., Ein Konstruktor ist ein Supportmitarbeiter welcher mir bei Abschluss eines Premiumabos hilft meine Javaprogramme richtig aufzubauen.]","[0]"
